@@ -57,6 +57,10 @@ a {
 .title {
   margin: 1.5em;
   color: var(--red);
+  background-color: var(--white);
+  width: fit-content;
+  padding: .25em;
+  border-radius: 10px;
 }
 
 /*
